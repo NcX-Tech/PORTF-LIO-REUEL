@@ -1,4 +1,5 @@
-📄 Portfólio Personalizado para Divulgação
+<h1>📄Portfólio Personalizado para Divulgação</h1>
+
 Este repositório contém um projeto de portfólio digital personalizado, desenvolvido para um cliente que buscava uma solução moderna e eficaz para sua divulgação profissional. O objetivo principal foi criar uma plataforma que permitisse ao cliente apresentar seus serviços, projetos e competências de maneira atraente e funcional.
 
 🎯 Objetivo do Projeto
@@ -23,11 +24,11 @@ Design Responsivo: Layout otimizado para diferentes dispositivos.
 
 🚀 Como Usar ou Modificar
 Clone este repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/portfolio-cliente.git
-Abra o arquivo index.html em seu navegador para visualizar.
-Edite os arquivos no editor de sua escolha para personalizar as informações.
+1. bash
+2. Copiar código
+3. git clone https://github.com/seu-usuario/portfolio-cliente.git
+4. Abra o arquivo index.html em seu navegador para visualizar.
+5. Edite os arquivos no editor de sua escolha para personalizar as informações.
 
 📩 Contato
 Se você também deseja um portfólio digital personalizado ou tem sugestões para este projeto, entre em contato:
