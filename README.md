@@ -12,8 +12,6 @@ Uma solução simples de gerenciar, permitindo atualizações futuras sem compli
 🛠️ Tecnologias Utilizadas
 HTML5 e CSS3: Para a estrutura e estilização do portfólio.
 JavaScript: Para funcionalidades interativas.
-Frameworks/Libs: (Ex.: Bootstrap, Tailwind CSS, ou outras, se aplicável).
-Hospedagem: O projeto pode ser facilmente publicado no GitHub Pages ou outro serviço de hospedagem.
 
 💡 Funcionalidades Principais
 Seção Sobre Mim: Breve descrição da trajetória profissional e habilidades do cliente.
